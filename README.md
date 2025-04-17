@@ -7,7 +7,7 @@ This project is a **Power BI dashboard** that helps analyze survey responses fro
 ✅ **How much do they earn?** (Salary breakdown by job title)  
 ✅ **Which programming languages do they prefer?** (Most used languages)  
 ✅ **How difficult is it to get a job in data?** (Career challenges)  
-✅ **Are they happy with their work-life balance and salary?** (Satisfaction levels)  
+✅ **Are they happy with their work-life balance and salary?** (Satisfaction levels)
 
 ---
 
